@@ -24,7 +24,7 @@ El proyecto debe contener estos archivos en la misma carpeta:
 
 main.py                 (aplicación principal)
 funciones_crud.py       (módulo de base de datos)
-base_de_datos_transportes.db  (se crea automáticamente)
+base_de_datos_transportes.db
 
 INSTALACIÓN
 -----------
@@ -64,7 +64,6 @@ Error: "No module named funciones_crud"
 NOTAS TÉCNICAS
 ---------------
 
-• La base de datos se crea automáticamente
 • Los datos se guardan en SQLite local
 • No se requiere conexión a internet después de la instalación
 • Compatible con Python 3.8-3.11
